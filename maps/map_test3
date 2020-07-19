@@ -1,0 +1,14 @@
+42
+salle2 54 8
+##end
+salle5 0 10
+salle3 4 2
+salle4 7 4
+salle1-salle4
+salle1-salle2
+salle2-salle5
+##start
+salle1 4 6
+salle2-salle3
+salle3-salle5
+salle4-salle2

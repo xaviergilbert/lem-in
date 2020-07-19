@@ -1,0 +1,9 @@
+32
+##start
+salles01 5 32
+salles02 1 4
+##end
+salles03 8 4
+salles01-salles02
+salles01-salles03
+salles02-salles03
